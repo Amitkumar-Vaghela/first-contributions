@@ -17,6 +17,7 @@
 - [Deepanshu](https://github.com/creator0131)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
+- [Amit VAghela](https://github.com/Amitkumar-Vaghela)
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Pawas Pandey](https://github.com/pawaspy)
 - [sane1090x](https://github.com/sane1090x)
